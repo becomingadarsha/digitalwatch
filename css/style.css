@@ -13,7 +13,7 @@ html {
 
 #main-page {
   background: rgb(10, 10, 10);
-  height: 700px;
+  min-height: 700px;
 }
 
 .display-text h1 {
