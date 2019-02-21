@@ -1,7 +1,8 @@
-@font-face {
-  font-family: 'digital-clock-font';
-  src: url('/vendor/digital.ttf');
-}
+/*DIGITAL CLOCK FONT*/
+@font-face{
+  font-family:'digital-7';
+  src: url('../fonts/digital-7.ttf');
+ }
 
 
 html {
@@ -31,7 +32,7 @@ html {
 #stop-watch {
   cursor: pointer;
   font-size: 10rem;
-  font-family: 'digital-clock-font';
+  font-family: 'digital-7', sans-serif;
   color: rgb(255, 0, 0);
 
 }
